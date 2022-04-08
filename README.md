@@ -49,6 +49,4 @@
 </details>
 
 
-[instagram]: https://instagram.com/arijhajji-1
-[linkedin]: https://linkedin.com/in/arijhajji-1
 
