@@ -11,7 +11,7 @@
 ### Connect with me:
 
 
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/arijhadji/#gh-dark-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/arijhadji/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arij-hajji/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arij-hajji/#gh-dark-mode-only)
