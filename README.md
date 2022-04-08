@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love to dance /sing and play video games
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijhajji-1&label=Profile%20views&color=purple&style=flat" alt="arijhajji" /> </p>
 ### Connect with me:
 
 
