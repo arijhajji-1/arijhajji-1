@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning  🤣
+- 🌱 Web developer ,currently learning  🤣
 - 👯 I’m looking to collaborate with other developers in projects
 - 🥅 2022 Goals: Learn more about web
 - ⚡ Fun fact: I love to dance /sing and play video games
