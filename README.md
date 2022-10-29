@@ -1,7 +1,7 @@
 # Hi there, I'm Arij  👋 
 
 
-<p align="center"> <img src="github.png" alt="arijhajji" /> </p>
+<p align="center"> <img src="./img/github.png" alt="arijhajji" /> </p>
 
 - 🌱 Web developer ,currently learning  🤣
 - 👯 I’m looking to collaborate with other developers in projects
