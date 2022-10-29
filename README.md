@@ -1,5 +1,3 @@
-# Hi there, I'm Arij  👋 
-
 
 <p align="center"> <img src="./img/github.png" alt="arijhajji" /> </p>
 
