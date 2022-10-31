@@ -1,4 +1,5 @@
 
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
 <p align="center"> <img src="./img/github.png" alt="arijhajji" /> </p>
 
 - 🌱 Web developer ,currently learning  🤣
