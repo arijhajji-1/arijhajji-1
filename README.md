@@ -25,23 +25,7 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="Symfony" width="26px" src="./img/symfony.svg" style="padding-right:10px;" />
-<img align="left" alt="Symfony" width="26px" src="./img/php.svg" style="padding-right:10px;" />
-<img align="left" alt="angular" width="26px" src="./img/angular.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="mongodb" width="26px" src="./img/mongodb.svg" style="padding-right:10px;" />
-<img align="left" alt="reactjs" width="26px" src="./img/reactjs.svg" style="padding-right:10px;" />
-<img align="left" alt="spring" width="26px" src="./img/spring.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank">
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/java.svg" />
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,spring,maven,react,vscode,c,cpp,symfony,dotnet,mongodb,mysql,sqlite,graphql,discord,linux,git,github,idea,stackoverflow)
 
 
 <br />
