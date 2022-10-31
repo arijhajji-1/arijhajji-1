@@ -1,7 +1,7 @@
-
+<h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
    <strong> Hi there,i'm Arij Hajji welcome to my profile.</strong> 
-
+</h1>
 <p align="center"> <img src="./img/github.png" alt="arijhajji" /> </p>
 
 - 🌱 Web developer ,currently learning  🤣
