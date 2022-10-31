@@ -21,7 +21,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/arijhajji_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/arijhajji_#gh-dark-mode-only)
-[![website] <a href="https://discord.com/users/Arij#9960" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+ <a href="https://discord.com/users/Arij#9960" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 ### Languages and Tools:
 
