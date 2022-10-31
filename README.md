@@ -58,6 +58,9 @@
   <img align="left" alt="arijhajji's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arijhajji-1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijhajji-1&show_icons=true&locale=en&layout=compact" alt="arijhajji" /></p>
 </details>
+ ## ⭐ **Top Languages**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijhajji-1&theme=radical)
  ## 🏆 **Github Profile Trophy**
 
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=arijhajji-1&theme=radical&row=1&column=10)
