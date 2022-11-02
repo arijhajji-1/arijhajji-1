@@ -26,8 +26,7 @@
 ### Languages and Tools:
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,spring,maven,react,vscode,c,cpp,symfony,dotnet,mongodb,mysql,sqlite,graphql,Qt,discord,linux,git,github,idea,stackoverflow)
-
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,spring,maven,react,vscode,c,cpp,symfony,dotnet,mongodb,mysql,sqlite,graphql,qt,discord,linux,git,github,idea,stackoverflow)
 
 <br />
 <br />
