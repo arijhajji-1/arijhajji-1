@@ -2,6 +2,8 @@
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
    <strong> Hi there,i'm Arij Hajji welcome to my profile.</strong> 
 </h1>
+<p align="center"> <img src="./img/github.png" alt="arijhajji" /> </p>
+
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijhajji-1&label=Profile%20views&color=0e75b6&style=flat" alt="arijhajji-1" /> </p>
