@@ -7,6 +7,7 @@
 
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 - 🎓 I’m currently a software enginneering student at [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
+
 - 🌱 I’m currently learning **Web development**
 
 - 👯 I’m looking to collaborate on **new projects**
