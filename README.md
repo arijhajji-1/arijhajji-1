@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijhajji-1&label=Profile%20views&color=0e75b6&style=flat" alt="arijhajji-1" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/arijhajji-1/github-profile-trophy)</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=arijhajji-1](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)" alt="arijhajji-1" /></a> </p>
 ## 💎 My Values
 
 
