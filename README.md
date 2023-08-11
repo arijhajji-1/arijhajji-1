@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3> 
-![MySkills(https://skillicons.dev/iconsi=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,nextjs,spring,maven,hibernate,django,react,redux,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,discord,linux,git,github,githubactions,gitlab,postman,docker,stackoverflow,prisma,apollo,vscode,idea)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,nextjs,spring,maven,hibernate,django,react,redux,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,discord,linux,git,github,githubactions,gitlab,postman,docker,stackoverflow,prisma,apollo,vscode,idea)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijhajji-1&show_icons=true&locale=en&layout=compact" alt="arijhajji-1" /></p>
 
