@@ -36,7 +36,8 @@
 
 <h3 align="left">Languages and Tools:</h3> 
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,nextjs,spring,maven,hibernate,django,react,redux,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,discord,linux,git,github,githubactions,gitlab,postman,docker,stackoverflow,prisma,apollo,vscode,idea" />
-
+ <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijhajji-1&show_icons=true&locale=en&layout=compact" alt="arijhajji-1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijhajji-1&show_icons=true&locale=en" alt="arijhajji-1" /></p>
