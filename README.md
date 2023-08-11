@@ -47,3 +47,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arijhajji-1&show_icons=true&theme=react)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arijhajji-1&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arijhajji-1&theme=react&border_radius=30)
+
