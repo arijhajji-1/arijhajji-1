@@ -18,7 +18,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijhajji-1&label=Profile%20views&color=0e75b6&style=flat" alt="arijhajji-1" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arijhajji-1)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=arijhajji-1&theme=radical&row=1&column=10)
+
+
 ## 💎 My Values
 
 
@@ -40,8 +42,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijhajji-1&show_icons=true&locale=en&layout=compact" alt="arijhajji-1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijhajji-1&show_icons=true&locale=en" alt="arijhajji-1" /></p>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arijhajji-1&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijhajji-1&" alt="arijhajji-1" /></p>
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arijhajji-1&show_icons=true&theme=react)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arijhajji-1&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
