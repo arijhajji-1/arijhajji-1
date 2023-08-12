@@ -36,7 +36,7 @@
 <a href="https://discord.gg/Arij#9960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arij#9960" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
+<h3 align="left">Languages ,Tools and DB:</h3> 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,nextjs,spring,maven,hibernate,django,react,redux,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,linux,git,github,githubactions,gitlab,postman,docker,stackoverflow,prisma,apollo,vscode,idea,c,cpp,nestjs,tailwindcss" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
