@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arij.hajji@esprit.tn**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijhajji-1&label=Profile%20views&color=0e75b6&style=flat" alt="arijhajji-1" /> </p>
+
 
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=arijhajji-1&theme=radical&row=1&column=10)
 
