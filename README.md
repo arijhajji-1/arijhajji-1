@@ -5,7 +5,6 @@
  <p align="center">
       <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/arijhajji-1?hexColor=5ed4f3" />
    </p>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </h1>
 
 
