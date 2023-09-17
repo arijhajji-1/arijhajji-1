@@ -1,6 +1,6 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
-   <strong> Hey there,i'm Arij Hajji welcome to my profile.</strong> 
+   <strong> Hey there,i'm Arij Hajji</strong> 
  <p align="center">
       <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/arijhajji-1?hexColor=5ed4f3" />
    </p>
