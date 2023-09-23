@@ -29,7 +29,7 @@
 
 
 💡 Mindset of Learning ,Curiosity & Digging up <br/>
-🙌 Teamwork & Communication <br/>
+🙌 Teamwork & Communication & Leadership<br/>
 🙋‍♂️ Autonomous <br/>
 🕺 & More to discover ...
 
