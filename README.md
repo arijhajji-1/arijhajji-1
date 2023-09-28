@@ -1,6 +1,6 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
-   <strong> Hey there,i'm Arij Hajji</strong> 
+   <strong> Hey there,I'm Arij Hajji</strong> 
  <p align="center">
   <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
 </p>
