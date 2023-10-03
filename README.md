@@ -3,8 +3,7 @@
    <strong> Hey there,I'm Arij Hajji</strong> 
  <p align="center">
   <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
-</p>
- <p align="center">
+
       <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/arijhajji-1?hexColor=5ed4f3" />
    </p>
 </h1>
