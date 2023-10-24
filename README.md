@@ -58,9 +58,7 @@
     <img style='width:39%;' src='https://github-readme-stats-mbm.vercel.app/api/top-langs/?username=arijhajji-1&layout=compact&show_icons=true&count_private=true&langs_count=10&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
 </a>
 
-<a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
-    <img style='width:100%;' src='https://github-readme-stats-mbm.vercel.app/api/wakatime?username=arijhajji-1&layout=compact&show_icons=true&count_private=true&langs_count=10&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
-</a>
+
 
 </details>
 
