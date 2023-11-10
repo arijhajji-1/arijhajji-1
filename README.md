@@ -41,9 +41,7 @@
 
 <h3 align="left">Languages ,Tools and DB:</h3> 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,laravel,angular,nextjs,spring,maven,hibernate,django,react,redux,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,linux,git,github,githubactions,gitlab,postman,docker,stackoverflow,prisma,apollo,vscode,idea,c,cpp,nestjs,tailwindcss" />
- <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,laravel,angular,nextjs,spring,maven,hibernate,django,react,redux,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,linux,git,github,githubactions,gitlab,postman,docker,stackoverflow,prisma,apollo,vscode,idea,c,cpp,nestjs,tailwindcss,docker,grafana,prometheus,jenkins,devops" />
 </p>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arijhajji-1&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
