@@ -59,4 +59,3 @@
 
 
 </details>
-[![committers.top badge](https://user-badge.committers.top/tunisia/arijhajji-1.svg)](https://user-badge.committers.top/tunisia/arijhajji-1)
