@@ -13,7 +13,7 @@
 
 - 🎓 I’m currently a Software Engineering Student at [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
 
-- 🌱 I’m currently looking for  **End of studies internship**
+- 🌱 I’m currently an Intern at Elda Technology
 
 - 👯 I’m looking to collaborate on **new projects**
 
