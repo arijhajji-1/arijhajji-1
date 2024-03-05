@@ -41,7 +41,7 @@
 
 <h3 align="left">Languages ,Tools and DB:</h3> 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,laravel,angular,nextjs,spring,maven,hibernate,django,react,redux,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,linux,git,github,githubactions,gitlab,postman,docker,stackoverflow,prisma,apollo,vscode,idea,c,cpp,nestjs,tailwindcss,grafana,prometheus,jenkins" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,laravel,angular,nextjs,spring,maven,hibernate,django,react,redux,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,linux,git,github,githubactions,gitlab,postman,docker,stackoverflow,prisma,apollo,vscode,idea,c,cpp,nestjs,tailwindcss,grafana,prometheus,jenkins,geoserver" />
 </p>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arijhajji-1&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
