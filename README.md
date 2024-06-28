@@ -9,7 +9,7 @@
 </h1>
 <div> <div>
 
-<h3 align="center">A passionate Web developer from Tunisia</h3>
+<h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 - 🎓 I’m currently a Software Engineering Student at [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
 
