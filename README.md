@@ -12,7 +12,7 @@
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 - 🎓 I just graduated as a Software engineer from [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)   class of 2023/2024
-- I'm currently working as a software engineer at [Elda Technology](https://eldatechnology.fr/)
+- I'm currently looking for new opportunities 
 
 - 👯 I’m looking to collaborate on **new projects**
 
