@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **new projects**
 
-- 📫 How to reach me **arij.hajji@esprit.tn**
+- 📫 How to reach me **arijhajji043@gmail.com**
 
 
 
